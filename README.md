@@ -9,7 +9,7 @@ System.ArithmeticException
 
 System.ArrayTypeMismatchException
 
-System.DivideByZeroException
+System.DivideByZeroException: 5/0
 
 System.IndexOutOfRangeException
 
@@ -19,7 +19,7 @@ System.NullReferenceException
 
 System.OutOfMemoryException
 
-System.OverflowException
+System.OverflowException: maxValue + 1
 
 System.StackOverflowException
 
